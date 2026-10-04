@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1791044959386",
+    "name": "channa pravallika",
+    "email": "25211888@gmail.com",
+    "phone": "9876543215",
+    "dob": "2007-10-09",
+    "gender": "Female",
+    "qualification": "Bachelor's Degree",
+    "exam": "Computer Science Entrance Exam",
+    "registeredAt": "2026-10-03T16:29:19.386Z"
+  },
+  {
+    "id": "1791045292081",
+    "name": "pravs",
+    "email": "243@gmail.com",
+    "phone": "Agf",
+    "dob": "2026-10-03",
+    "gender": "Other",
+    "qualification": "10th",
+    "exam": "Computer Science Entrance Exam",
+    "registeredAt": "2026-10-03T16:34:52.081Z"
+  },
+  {
+    "id": "1791046409297",
+    "name": "pravs",
+    "email": "324@gmail.com",
+    "phone": "34567",
+    "dob": "2026-10-03",
+    "gender": "Other",
+    "qualification": "10th",
+    "exam": "Engineering Entrance Exam",
+    "registeredAt": "2026-10-03T16:53:29.297Z"
+  },
+  {
+    "id": "1791047014242",
+    "name": "pravs",
+    "email": "1232@gmail.com",
+    "phone": "9876543215",
+    "dob": "2012-10-10",
+    "gender": "Female",
+    "qualification": "Master's Degree",
+    "exam": "General Aptitude Exam",
+    "registeredAt": "2026-10-03T17:03:34.242Z"
+  },
+  {
+    "id": "1791047114511",
+    "name": "rahul",
+    "email": "123@gmail.com",
+    "phone": "1009567899",
+    "dob": "2026-10-03",
+    "gender": "Male",
+    "qualification": "Bachelor's Degree",
+    "exam": "Engineering Entrance Exam",
+    "registeredAt": "2026-10-03T17:05:14.511Z"
+  },
+  {
+    "id": "1791117930174",
+    "name": "pravs",
+    "email": "678@gmail.com",
+    "phone": "1234567898",
+    "dob": "2008-10-09",
+    "gender": "Female",
+    "qualification": "Bachelor's Degree",
+    "exam": "Engineering Entrance Exam",
+    "registeredAt": "2026-10-04T12:45:30.174Z"
+  }
+]
